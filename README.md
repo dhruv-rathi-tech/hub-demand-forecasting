@@ -69,8 +69,8 @@ This repository contains the end-to-end forecasting pipeline for predicting hub-
 ### 1. Prerequisites & Environment Setup
 Clone this repository and install the dependencies:
 ```bash
-git clone <YOUR_REPO_URL>
-cd <REPO_DIRECTORY>
+git clone https://github.com/dhruv-rathi-tech/hub-demand-forecasting.git
+cd hub-demand-forecasting
 pip install -r requirements.txt
 ```
 
